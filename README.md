@@ -28,4 +28,4 @@ Anticipar niveles de tráfico por zona y hora utilizando Prophet y LSTM, con vis
 
 ## 👤 Autor
 Luis Caro
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/Bogota-Traffic-AI/blob/main/notebooks/modelo_lstm.ipynb)
+[![Abrir en Colab] (https://colab.research.google.com/drive/1vfFp6rvmRW4FIuLud6tZN3ppPnsyX8-b?usp=sharing)
